@@ -2,7 +2,7 @@
 
 ##The Experimental Design
 
-This data used to create this dataset was collected from the UCI Machine Learning Repository.  The abstract outlines the experiment as follows:
+The data used to create this dataset was collected from the UCI Machine Learning Repository.  The abstract outlines the experiment as follows:
 
 "Abstract: Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors"
 
