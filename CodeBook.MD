@@ -10,7 +10,7 @@ More information about the experiment can be found here, including a link to a v
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-##The Variables
+## The Variables
 
 1.  SubjectID: int [1:30] Lists the subject by their identification number
 2.  Activity: factor w/6 levels Lists one of six possible activities used for the experiment
