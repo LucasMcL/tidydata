@@ -1,5 +1,6 @@
 # This document explains the basic structure of run_analysis.R
 
+Assignment instructions [here](instructions.txt).
 ## Loading packages and downloading files
 * This script primarily uses plyr and dplyr, so they must be loaded
 * Package file is downloaded and unzipped using basic commands
